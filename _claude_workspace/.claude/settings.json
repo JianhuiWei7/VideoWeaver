@@ -1,0 +1,18 @@
+{
+  "theme": "auto",
+  "env": {
+    "CONDA_DEFAULT_ENV": "base",
+    "CONDA_PREFIX": "/Users/bytedance/miniconda3",
+    "CONDA_EXE": "/Users/bytedance/miniconda3/bin/conda",
+    "CONDA_PYTHON_EXE": "/Users/bytedance/miniconda3/bin/python",
+    "PATH": "/opt/homebrew/bin:/opt/homebrew/sbin:/Users/bytedance/miniconda3/bin:/Users/bytedance/miniconda3/condabin:/Users/bytedance/.local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin",
+    "OUTPUT_DIR": "/Users/bytedance/.openclaw/workspace/generate_materials"
+  },
+  "permissions": {
+    "allow": [
+      "Bash(*)",
+      "Read(*)",
+      "Write(*)"
+    ]
+  }
+}

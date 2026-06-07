@@ -1,0 +1,2 @@
+[shell_environment_policy]
+set = { OUTPUT_DIR = "{{OUTPUT_DIR}}" }

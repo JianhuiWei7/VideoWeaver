@@ -1,0 +1,26 @@
+# Core API clients
+openai>=1.0.0
+volcengine-python-sdk>=5.0.0
+tos>=2.0.0
+openclaw-sdk>=2.1.0
+
+# HTTP clients
+requests>=2.28.0
+httpx>=0.24.0
+
+# Image/video/audio processing
+Pillow>=10.0.0
+opencv-python>=4.8.0
+moviepy>=2.0.0
+scenedetect>=0.6.0
+numpy>=1.24.0
+demucs>=4.0.0
+torch>=2.0.0
+
+# Utilities
+tqdm>=4.64.0
+PyYAML>=6.0
+json-repair>=0.30.0
+
+# External command-line tools used by several skills but not installed via pip:
+# - ffmpeg / ffprobe

@@ -1,0 +1,1 @@
+../../video-skill-creator/references/video_generation_expertise.md
